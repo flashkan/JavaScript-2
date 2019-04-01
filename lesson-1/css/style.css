@@ -73,7 +73,7 @@ body{
 }
 
 .product-item:hover {
-    box-shadow: 0 0 2px 1px #000000;
+    box-shadow: 0 0 5px 3px #000000;
 }
 
 .btn {
@@ -87,7 +87,7 @@ body{
 }
 
 .btn:hover {
-    border: 3px solid #cccccc;
+    border: 3px solid #3496ba;
 }
 
 .btn:focus {
