@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Интернет-магазин</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style/style.css">
 </head>
 <body>
 <div class="false-container">
@@ -13,7 +13,9 @@
                 <img class="logo__ing" src="img/logo.png" alt="logo">
                 <p class="logo__text">Logo</p>
             </div>
-            <button class="btn header__btn_cart" type="button">Cart</button>
+            <div class="cart-container">
+                <button class="btn cart-container__btn_cart" data-id="cart" type="button">Корзина</button>
+            </div>
         </header>
         <main>
             <div class="products"></div>
