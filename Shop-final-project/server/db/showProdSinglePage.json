@@ -1,0 +1,26 @@
+[
+    {
+        "id_product": 204,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/women/4w-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 205,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/women/5w-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 206,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/women/6w-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 207,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/women/7w-product.jpg",
+        "price": 52
+    }
+]
