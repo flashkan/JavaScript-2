@@ -1,0 +1,17 @@
+[
+    {
+        "event": "add",
+        "productId": 124,
+        "dataTime": "April 21st 2019, 4:25:54 pm"
+    },
+    {
+        "event": "add",
+        "productId": 124,
+        "dataTime": "April 21st 2019, 4:46:52 pm"
+    },
+    {
+        "event": "del",
+        "productId": 124,
+        "dataTime": "April 21st 2019, 4:47:03 pm"
+    }
+]
