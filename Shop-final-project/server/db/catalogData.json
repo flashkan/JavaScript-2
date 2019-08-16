@@ -1,0 +1,110 @@
+[
+    {
+        "id_product": 101,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/men/1m-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 102,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/men/2m-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 103,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/men/3m-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 104,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/men/4m-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 105,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/men/5m-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 106,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/men/6m-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 107,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/men/7m-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 108,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/men/8m-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 109,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/men/9m-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 110,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/men/10m-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 111,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/men/11m-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 201,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/women/1w-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 202,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/women/2w-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 203,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/women/3w-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 204,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/women/4w-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 205,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/women/5w-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 206,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/women/6w-product.jpg",
+        "price": 52
+    },
+    {
+        "id_product": 207,
+        "product_name": "Mango People T-shirt",
+        "img": "img/product/women/7w-product.jpg",
+        "price": 52
+    }
+]

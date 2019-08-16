@@ -1,0 +1,34 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 13,
+            "id_product": 107,
+            "product_name": "Mango People T-shirt",
+            "img": "img/product/men/7m-product-min.jpg",
+            "price": 52
+        },
+        {
+            "quantity": 4,
+            "id_product": 105,
+            "product_name": "Mango People T-shirt",
+            "img": "img/product/men/5m-product-min.jpg",
+            "price": 52
+        },
+        {
+            "quantity": 1,
+            "id_product": 109,
+            "product_name": "Mango People T-shirt",
+            "img": "img/product/men/9m-product-min.jpg",
+            "price": 52
+        },
+        {
+            "quantity": 4,
+            "id_product": 102,
+            "product_name": "Mango People T-shirt",
+            "img": "img/product/men/2m-product-min.jpg",
+            "price": 52
+        }
+    ]
+}
